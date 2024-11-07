@@ -5,11 +5,11 @@
 
 This course had 4 assignments:
 
-* [Panorama](ex1-panorama)
+* [Panorama](Panorama_Initial/Panorama_Initial)
 
 * [Fundamental matrix estimation](Fundamental_Initial)
 
-* [Disparity map estimation with local methods (using seeds)](seeds_Initial)
+* [Disparity map estimation with local methods (using seeds)](Seeds_Initial)
 
 * [Disparity map estimation with graph cuts](GCDisparity_Initial)
 
