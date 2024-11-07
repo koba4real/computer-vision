@@ -7,7 +7,7 @@ This course had 4 assignments:
 
 * [Panorama](ex1-panorama)
 
-* [Fundamental matrix estimation](ex2-fundamental-matrix)
+* [Fundamental matrix estimation](Fundamental_Initial)
 
 * [Disparity map estimation with local methods (using seeds)](ex3-seeds)
 
