@@ -1,9 +1,9 @@
 # 3D Computer Vision
 ![image](3Dvision-summary.png)
 
-*Source: course slides (Pascal Monasse)*
 
-This course had 4 assignments:
+
+This github repository has 4 projects:
 
 * [Panorama](Panorama_Initial/Panorama_Initial)
 
