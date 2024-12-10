@@ -1,7 +1,6 @@
 // Imagine++ project
 // Project:  Fundamental
-// Author:   Pascal Monasse
-// Date:     2013/10/08
+
 
 //kharef okba
 
