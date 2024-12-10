@@ -1,7 +1,6 @@
 // Imagine++ project
 // Project:  Seeds
-// Author:   Pascal Monasse
-// Student: Kharef Okba
+// Kharef Okba
 
 #include <Imagine/Images.h>
 #include <queue>
