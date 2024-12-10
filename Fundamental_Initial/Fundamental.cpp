@@ -1,8 +1,6 @@
 // Imagine++ project
 // Project:  Fundamental
-
-
-//kharef okba
+// kharef okba
 
 #include "./Imagine/Features.h"
 #include <Imagine/Graphics.h>
