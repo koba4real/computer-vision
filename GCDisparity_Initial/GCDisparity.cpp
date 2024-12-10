@@ -1,7 +1,6 @@
 // Imagine++ project
 // Project:  GraphCutsDisparity
-// Author:   Renaud Marlet/Pascal Monasse
-// Student: Karef OKba
+// Kharef OKba
 
 #include <Imagine/Images.h>
 #include <iostream>
