@@ -1,9 +1,6 @@
 // Imagine++ project
 // Project:  Panorama
-// Author:   Pascal Monasse
-// Date:     2013/10/08
-
-//Kharef Okba: assignment 1
+// okba kharef
 
 #include <Imagine/Graphics.h>
 #include <Imagine/Images.h>
