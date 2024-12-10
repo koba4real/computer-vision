@@ -1,5 +1,9 @@
 # Panorama
 
+##objective:
+-the user clicks 4 or more corresponding points in left and right images. after a right  button click, the program computes homography and shows the resulting panorama window.
+
+
 ## Usage
 
 - build and run
